@@ -1,6 +1,5 @@
 1. I wish to master Python Language
 2. i wish to master Git
 3. i wish to master Django
-4. i wish to be better
-5. i wish to master C++
-6. i wish to master Linux
+4. i wish to master C++ Language
+5. i wish to master Linux
