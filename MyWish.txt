@@ -1,0 +1,4 @@
+1. I wish to master the Python Language
+2. i wish to master Git
+3. i wish to master Django
+4. i wish to be better
